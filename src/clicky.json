@@ -2,73 +2,73 @@
   {
     "id": 1,
     "name": "Darth Vader",
-    "image": "https://www.sideshowtoy.com/wp-content/uploads/2014/07/star-wars-darth-vader-life-size-feature-400184.jpg",
+    "image": "https://static.comicvine.com/uploads/scale_small/13/132327/5651695-698695e6e6f9ffac85ca88105592e95e-dab2whf.jpg",
     "selected":0
   },
   {
     "id": 2,
     "name": "Kylo Ren",
-    "image": "https://upload.wikimedia.org/wikipedia/fi/thumb/5/5a/4969419-kylo%2Bren%2Bafbeelding%2B2.jpg/1200px-4969419-kylo%2Bren%2Bafbeelding%2B2.jpg",
+    "image": "https://static.comicvine.com/uploads/scale_small/7/70801/4765194-11078126_826580774057137_1468516654063178517_n.jpg",
     "selected":0
   },
   {
     "id": 3,
     "name": "Luke",
-    "image": "https://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/t/591f14c4e6f2e18457716068/1495209159862/",
+    "image": "https://static.comicvine.com/uploads/scale_small/11126/111269625/6171529-ls.jpg",
     "selected":0
   },
   {
     "id": 4,
     "name": "Han Solo",
-    "image": "https://www.themarysue.com/wp-content/uploads/2017/07/han-solo-return-of-the-jedi_612x380.jpg",
+    "image": "https://static.comicvine.com/uploads/scale_small/3/36427/983297-han_solo.jpg",
     "selected":0
   },
   {
     "id": 5,
     "name": "Chewbacca",
-    "image": "https://lumiere-a.akamaihd.net/v1/images/chewie-db_2c0efea2.jpeg?region=0%2C154%2C1592%2C796",
+    "image": "https://static.comicvine.com/uploads/scale_small/13/132327/3706959-sw-rebelheist-3hughes-65bc5.jpg",
     "selected":0
   },
   {
     "id": 6,
     "name": "Yoda",
-    "image": "https://upload.wikimedia.org/wikipedia/en/6/6f/Yoda_Attack_of_the_Clones.png",
+    "image": "https://static.comicvine.com/uploads/scale_small/13/132327/2727155-yoda_by_el_grimlock.jpg",
     "selected":0
   },
   {
     "id": 7,
     "name": "Boba Fett",
-    "image": "https://i.ytimg.com/vi/pZDsd_U_3VA/maxresdefault.jpg",
+    "image": "https://static.comicvine.com/uploads/scale_small/3/38826/1066454-0bobafett.jpg",
     "selected":0
   },
   {
     "id": 8,
     "name": "Mace Windu",
-    "image": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150608-27674-17ybdmh_5eca4467.jpeg?region=0%2C0%2C1200%2C538",
+    "image": "https://static.comicvine.com/uploads/scale_small/4/41521/830932-mace_unleashed.jpg",
     "selected":0
   },
   {
     "id": 9,
     "name": "Obi Wan",
-    "image": "http://www.insidethemagic.net/wp-content/uploads/2017/08/alec-guinness-star-wars-lightsaber-550x455.jpg",
+    "image": "https://static.comicvine.com/uploads/scale_small/7/70801/4973672-img_1482.jpg",
     "selected":0
   },
   {
     "id": 10,
     "name": "Leia Organa",
-    "image": "https://d.wattpad.com/story_parts/86942701/images/13d114b4920d3743.jpg",
+    "image": "https://static.comicvine.com/uploads/scale_small/3/31666/3989577-star-wars-leia-dodson-cov-efaab.jpg",
     "selected":0
   },
   {
     "id": 11,
     "name": "Rey _____",
-    "image": "https://vignette.wikia.nocookie.net/starwars/images/d/d1/Rey_survival_gear.png/revision/latest/scale-to-width-down/200?cb=20160122062130",
+    "image": "https://static.comicvine.com/uploads/scale_small/3/31666/5306699-stwtfa2016004-main-6bcc8.jpg",
     "selected":0
   },
   {
     "id": 12,
     "name": "Finn",
-    "image": "https://typeset-beta.imgix.net/rehost%2F2016%2F9%2F13%2F50970389-3a94-4987-a05c-8e7e9e648b10.jpg",
+    "image": "https://static.comicvine.com/uploads/scale_small/9/96399/4975966-finn.jpg",
     "selected": 0
   }
 ]
