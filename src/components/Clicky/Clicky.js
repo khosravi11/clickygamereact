@@ -9,12 +9,8 @@ const Clicky = props => (
     <div value={props.selected} className="content">
       <ul value={props.selected}>
         <li value={props.selected}>
-          <strong>Name:</strong> {props.name}
+          <strong>{props.name}</strong>
         </li>
-
-          <li value={props.selected}>
-            <strong>Selected:</strong> {props.selected}
-          </li>
       </ul>
     </div>
   </div>
