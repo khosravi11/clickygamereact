@@ -15,6 +15,10 @@ class App extends Component {
 
   };
 
+
+
+
+
   shuffle = array => {
   let i = array.length - 1;
   for (; i > 0; i--) {
@@ -27,13 +31,13 @@ class App extends Component {
 }
 
   shuffleCards = (e, id) => {
-
     // Filter this.state.cards for cards with an id not equal to the id being removed
-    const cards = this.state.cards.map(card => {
+    let cardshuff = this.state.cards.map(card => {
       if(card.id === id && card.selected !== 1){
         card.selected = 1;
         this.setState({count: this.state.count + 1})
       } else {
+
 
       }
 
@@ -48,11 +52,21 @@ class App extends Component {
     else {
       if(this.state.count >= this.state.highscore){
         this.setState({highscore: this.state.count})
+        let cardshuff = this.state.cards.map(card => {
+          if(card.selected === 1){
+            card.selected = 0;
+          } else {
+
+
+          }
+
+          return card;
+        });
 
       }
       this.setState({count: 0})
     }
-    this.setState({ cards });
+    this.setState({ cardshuff });
   };
 
   // Map over this.state.cards and render a cardCard component for each card object
